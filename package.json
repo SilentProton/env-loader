@@ -1,0 +1,24 @@
+{
+  "name": "env-loader",
+  "version": "1.0.0",
+  "description": "Lightweight TypeScript module to load .env configuration into process.env for Node.js applications.",
+  "homepage": "https://github.com/SilentProton/env-loader#readme",
+  "bugs": {
+    "url": "https://github.com/SilentProton/env-loader/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilentProton/env-loader.git"
+  },
+  "license": "MIT",
+  "author": "SilentProton",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.15",
+    "typescript": "^5.8.3"
+  }
+}
